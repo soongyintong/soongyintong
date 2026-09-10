@@ -7,7 +7,7 @@ Every commit is a new beginning
 ## Public token payments
 
 - **Network:** Solana
-- **Token:** Please confirm the token and network before sending
-- **Receiving address:** 
+- **Asset:** Please confirm the token and network before sending
+- **Receiving address:** EuyyoQaTkKN1ca3YMgNuXeXy1LhwnQnf61QtUZSNr8dM
 
 This is a public Solana receiving address. Please send only after confirming the asset and network.
